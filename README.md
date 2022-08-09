@@ -1,0 +1,2 @@
+# Action-Recognition-in-Still-Images-using-Visual-Scanpaths
+ Proposed an LSTM based context module that can learn the sequence of object proposals. A sequencer algorithm reorders the object proposals in the sequence provided by human gaze behaviour and before feeding to the LSTM, positional encoding is concatenated with each instance appearance feature.   Proposed model is a concatenation of the residual network and and an LSTM based context module and has shown a mean average precision of 92.00% on action classification of still images from PASCAL VOC-2012 action dataset.
